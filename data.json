@@ -1,0 +1,252 @@
+{
+  "managers": [
+    { "first_name": "Olivia", "last_name": "Johnson" },
+    { "first_name": "Liam", "last_name": "Smith" },
+    { "first_name": "Sophia", "last_name": "Williams" },
+    { "first_name": "Mason", "last_name": "Brown" },
+    { "first_name": "Emily", "last_name": "Davis" }
+  ],
+  "influencers": [
+    {
+      "first_name": "Ava",
+      "last_name": "Martinez",
+      "manager_name": "Olivia Johnson",
+      "social_media_accounts": [
+        {
+          "social_network": "instagram",
+          "title": "Ava's Fashion Diary",
+          "account_url": "https://instagram.com/ava.fashion",
+          "username": "ava_fashion",
+          "followers": 15000
+        },
+        {
+          "social_network": "youtube",
+          "title": "Ava's Travel Vlogs",
+          "account_url": "https://youtube.com/ava_travel",
+          "username": "ava_travel",
+          "followers": 20000
+        }
+      ]
+    },
+    {
+      "first_name": "Lucas",
+      "last_name": "Garcia",
+      "manager_name": "Liam Smith",
+      "social_media_accounts": [
+        {
+          "social_network": "instagram",
+          "title": "Lucas' Lifestyle Hub",
+          "account_url": "https://instagram.com/lucas.lifestyle",
+          "username": "lucas_lifestyle",
+          "followers": 22000
+        },
+        {
+          "social_network": "tiktok",
+          "title": "Quick Tutorials by Lucas",
+          "account_url": "https://tiktok.com/@lucas_tutorials",
+          "username": "lucas_tutorials",
+          "followers": 50000
+        }
+      ]
+    },
+    {
+      "first_name": "Isabella",
+      "last_name": "Rodriguez",
+      "manager_name": "Sophia Williams",
+      "social_media_accounts": [
+        {
+          "social_network": "youtube",
+          "title": "Isabella's Fashion World",
+          "account_url": "https://youtube.com/isabella_fashion",
+          "username": "isabella_fashion",
+          "followers": 30000
+        },
+        {
+          "social_network": "instagram",
+          "title": "Isabella's Closet Finds",
+          "account_url": "https://instagram.com/isabella.closet",
+          "username": "isabella_closet",
+          "followers": 45000
+        },
+        {
+          "social_network": "tiktok",
+          "title": "Isabella's Street Style",
+          "account_url": "https://tiktok.com/@isabella_streetstyle",
+          "username": "isabella_streetstyle",
+          "followers": 35000
+        }
+      ]
+    },
+    {
+      "first_name": "Ethan",
+      "last_name": "Miller",
+      "manager_name": "Mason Brown",
+      "social_media_accounts": []
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Smith",
+      "manager_name": "Emily Davis",
+      "social_media_accounts": [
+        {
+          "social_network": "youtube",
+          "title": "Mia's Travel Adventures",
+          "account_url": "https://youtube.com/mia_travel",
+          "username": "mia_travel",
+          "followers": 25000
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Perez",
+      "manager_name": "Liam Smith",
+      "social_media_accounts": [
+        {
+          "social_network": "instagram",
+          "title": "Noah's Fitness Journey",
+          "account_url": "https://instagram.com/noah.fitness",
+          "username": "noah_fitness",
+          "followers": 18000
+        },
+        {
+          "social_network": "facebook",
+          "title": "Noah's Fitness Blog",
+          "account_url": "https://facebook.com/noah.fitness.blog",
+          "username": "noah_fitness_blog",
+          "followers": 8000
+        }
+      ]
+    },
+    {
+      "first_name": "Amelia",
+      "last_name": "Gonzalez",
+      "manager_name": "Sophia Williams",
+      "social_media_accounts": [
+        {
+          "social_network": "instagram",
+          "title": "Amelia's Travel Diaries",
+          "account_url": "https://instagram.com/amelia.travels",
+          "username": "amelia_travels",
+          "followers": 12000
+        },
+        {
+          "social_network": "youtube",
+          "title": "Amelia's Food Adventures",
+          "account_url": "https://youtube.com/amelia_food",
+          "username": "amelia_food",
+          "followers": 5000
+        },
+        {
+          "social_network": "tiktok",
+          "title": "Amelia's Makeup Tips",
+          "account_url": "https://tiktok.com/@amelia.makeup",
+          "username": "amelia.makeup",
+          "followers": 20000
+        }
+      ]
+    },
+    {
+      "first_name": "William",
+      "last_name": "Brown",
+      "manager_name": "Mason Brown",
+      "social_media_accounts": []
+    },
+    {
+      "first_name": "Charlotte",
+      "last_name": "Davis",
+      "manager_name": "Emily Davis",
+      "social_media_accounts": [
+        {
+          "social_network": "youtube",
+          "title": "Charlotte's Fashion Tips",
+          "account_url": "https://youtube.com/charlotte_fashion",
+          "username": "charlotte_fashion",
+          "followers": 12000
+        }
+      ]
+    },
+    {
+      "first_name": "Benjamin",
+      "last_name": "Mendez",
+      "manager_name": "Olivia Johnson",
+      "social_media_accounts": [
+        {
+          "social_network": "instagram",
+          "title": "Ben's Adventure Vlogs",
+          "account_url": "https://instagram.com/ben.adventures",
+          "username": "ben_adventures",
+          "followers": 8000
+        }
+      ]
+    },
+    {
+      "first_name": "Ella",
+      "last_name": "Martinez",
+      "manager_name": "Sophia Williams",
+      "social_media_accounts": [
+        {
+          "social_network": "tiktok",
+          "title": "Ella's Home Decor",
+          "account_url": "https://tiktok.com/@ella.decor",
+          "username": "ella.decor",
+          "followers": 20000
+        },
+        {
+          "social_network": "instagram",
+          "title": "Ella's Interior Design",
+          "account_url": "https://instagram.com/ella.decor",
+          "username": "ella.decor",
+          "followers": 25000
+        }
+      ]
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Lopez",
+      "manager_name": "Liam Smith",
+      "social_media_accounts": []
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Hernandez",
+      "manager_name": "Emily Davis",
+      "social_media_accounts": [
+        {
+          "social_network": "tiktok",
+          "title": "Sophia's Cooking Tutorials",
+          "account_url": "https://tiktok.com/@sophia.cooking",
+          "username": "sophia.cooking",
+          "followers": 40000
+        },
+        {
+          "social_network": "youtube",
+          "title": "Sophia's Recipe Collection",
+          "account_url": "https://youtube.com/sophia.recipes",
+          "username": "sophia.recipes",
+          "followers": 15000
+        }
+      ]
+    },
+    {
+      "first_name": "Jackson",
+      "last_name": "Wilson",
+      "manager_name": "Mason Brown",
+      "social_media_accounts": []
+    },
+    {
+      "first_name": "Zoe",
+      "last_name": "Taylor",
+      "manager_name": "Olivia Johnson",
+      "social_media_accounts": [
+        {
+          "social_network": "instagram",
+          "title": "Zoe's Fashion Blog",
+          "account_url": "https://instagram.com/zoe.fashion",
+          "username": "zoe.fashion",
+          "followers": 30000
+        }
+      ]
+    }
+  ]
+}
