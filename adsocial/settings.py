@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-1$u67)cq_vt1rx+16!7=-@-k1t+z#7i!*3hj&h0a6ywhhim%pl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
+    'adsocialbe-production.up.railway.app',
+]
 
 
 # Application definition
